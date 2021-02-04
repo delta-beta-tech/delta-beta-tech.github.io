@@ -156,7 +156,7 @@ body{
   }   
 
 
-  /* Video background css */
+  /* Video background css
 
   * { box-sizing: border-box; }
 .video-background {
@@ -193,4 +193,4 @@ body{
 }
 @media all and (max-width: 500px) {
 .vid-info .acronym { display: none; }
-}
+} */
